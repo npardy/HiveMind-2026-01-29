@@ -1,0 +1,14 @@
+# Python dependencies for Email Automation System
+
+anthropic>=0.18.0
+pyyaml>=6.0
+requests>=2.31.0
+
+# For Microsoft Graph API (email access)
+msal>=1.25.0
+
+# For QuickBooks OAuth
+authlib>=1.3.0
+
+# Optional but recommended
+python-dotenv>=1.0.0  # For environment variables

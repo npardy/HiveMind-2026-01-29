@@ -1,0 +1,95 @@
+REASON: Nicholas requested Perry Anthony deed from job 22-213, but I cannot access the NAS paths. Getting "Path not found" errors when trying to access Z:\Jobs\. System may be having connectivity issues or the 2022 job folders may be archived elsewhere. Nicholas needs this deed sent to him.
+============================================================
+
+Context: {"email_info": null, "context": "{\"request\": \"Send Perry Anthony deed (R 616 F 1603)\", \"job\": \"22-213 - Byron Spencer - 30-32 Lawrence Pond Road West, CBS\", \"expected_path\": \"Z:\\\\Jobs\\\\2022\\\\22-213 - Byron Spencer - 30-32 Lawrence Pond Road West, CBS\\\\Survey\\\\Reference & Research\\\\Deeds\\\\CADO & Registry of Deeds\\\\\", \"error\": \"Cannot access Z:\\\\Jobs\\\\ - path not found\"}"}
+
+From: Nick Pardy <pardysurveys@outlook.com>
+Subject: Re: Lawrence Pond Road
+Date: 2026-01-25 21:52:45+00:00
+
+Hey Claude,
+
+Thanks. Send me the deed for Perry Anthony.
+
+
+Nick Pardy, N.L.S.
+
+Pardy Surveys Inc.
+
+
+
+Phone: 709-330-1502<tel:+17093301502>
+
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7C456b80a4933942494ba808de5c5c168e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049747655815021%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7MyHyHsqGFM8Jyyk2PBgP%2FYfnRHIyf%2Fc3qyr3LioC%2Bw%3D&reserved=0>
+
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+
+________________________________
+From: Nick Pardy <pardysurveys@outlook.com>
+Sent: Sunday, January 25, 2026 6:21:10 PM
+To: Nick Pardy <pardysurveys@outlook.com>
+Subject: RE: Lawrence Pond Road
+
+Hi Nick,
+
+Here's the information for Byron Spencer's survey at 30-32 Lawrence Pond Road West, CBS (job 22-213):
+
+**Survey PDF Location:**
+The survey file is too large to email (4.3MB), but it's located at:
+`Z:\Jobs\2022\22-213 - Byron Spencer - 30-32 Lawrence Pond Road West, CBS\Document Control\Outgoing\30-32 Lawrence Pond Road West (22-213-1).pdf`
+
+**Neighbors (based on deed files):**
+- **Nathan & Grace Penney** (R 286 F 2262)
+- **Greg & Stacy Hagerty** (reg. no. 292589)
+- **Glen Vatcher** - 22-28 Lawrence Pond Road West (R 1456 F 2017)
+- **Frank Penney** (reg. no. 546948)
+- David & Joyse Murphy (R 325 F 356)
+- Perry Anthony (R 616 F 1603)
+
+**Neighbor Deed Locations:**
+All neighbor deeds are in: `Z:\Jobs\2022\22-213 - Byron Spencer - 30-32 Lawrence Pond Road West, CBS\Survey\Reference & Research\Deeds\CADO & Registry of Deeds\`
+
+Which specific neighbor's deed did you need? The most likely adjacent neighbors appear to be Nathan & Grace Penney and Greg & Stacy Hagerty.
+
+**Payment Status:**
+Invoice 22-213 shows $1.15 still owing (original amount $1.15). This seems unusually low - you may want to verify if this is the correct invoice or if there's a data issue.
+
+
+
+All the best,
+
+Claude
+Pardy Surveys Inc.
+
+Phone: 709-330-1502<tel:709-330-1502>
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7C456b80a4933942494ba808de5c5c168e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049747655846807%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=x%2FmJkwE6YcMElYfAaUlo%2BoP0MBzsRcWEIzzxiSwT8HM%3D&reserved=0>
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+
+[Pardy Surveys Inc.]
+
+Automated response.
+Need Nick or Joe? Reply "HUMAN" to connect directly.
+
+________________________________
+From: Nick Pardy <pardysurveys@outlook.com>
+Sent: Sunday, January 25, 2026 9:49:43 PM
+To: Nick Pardy <pardysurveys@outlook.com>
+Subject: Lawrence Pond Road
+
+Hey Claude,
+
+Can you send me the PDF we made for the survey for Byron Spencer on Lawrence Pond Road? Also, tell me the names of the neighbours and give me the deed for neighbour on one side.also, tell me if they paid.
+
+
+Nick Pardy, N.L.S.
+
+Pardy Surveys Inc.
+
+
+
+Phone: 709-330-1502<tel:+17093301502>
+
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7C456b80a4933942494ba808de5c5c168e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049747655868666%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=MphRRArLivzszyaGGZUC9UJj%2FdyvQxKPta%2Bq5XMcMQo%3D&reserved=0>
+
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+

@@ -1,0 +1,10 @@
+REASON: Heating system alert - Alarm Code A005 detected. Rheem Tech Service contact needed: 1-800-995-0982. This is a building/equipment maintenance issue requiring Nicholas's personal attention.
+============================================================
+
+Context: {"email_info": {"from": "help@econetsupport.com", "subject": "EcoNet Device Alert", "date": "2026-01-24 03:11:09", "message_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFj8IsLgAAAA==", "body": "Heating system issue detected, Alarm Code A005, contact Rheem Tech Service 1-800-995-0982"}, "context": "This is a legitimate equipment monitoring alert, not business operations. Nicholas needs to contact Rheem directly about the heating system."}
+
+From: help@econetsupport.com <help@econetsupport.com>
+Subject: EcoNet Device Alert
+Date: 2026-01-24 03:11:09+00:00
+
+An issue has been detected with your heating system, contact Rheem Tech Service 1-800-995-0982 for diagnosis and correction. Provide Alarm Code A005 for reference.

@@ -1,0 +1,61 @@
+REASON: Incorrectly created job 26-012 for client who only wanted a quote. Job has been cancelled and invoice should be voided (tool reported void failed). Client replied clarifying they only wanted pricing information. I've apologized and provided quote information. Invoice ID: 11891 may need manual void in QBO.
+============================================================
+
+Context: {"email_info": {"from": "johnnyappleseednl@outlook.com", "subject": "Re: RPR Quote", "conversation_id": "AQQkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKABAASewDQhgeIUSM_tj6op6FAA=="}, "context": "Client: Johnny (johnnyappleseednl@outlook.com), Property: 10 Hogan's Lane, PCSP. Original request was ambiguous \"I need an RPR\" which I interpreted as job request. Client clarified \"I was just looking for a quote by\". Job cancelled, but invoice void failed in system."}
+
+From: Nick Pardy <johnnyappleseednl@outlook.com>
+Subject: Re: RPR Quote 
+Date: 2026-01-26 23:35:48+00:00
+
+I was just looking for a quote by
+
+Get Outlook for Android<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C9e59dcdf138d4b38217508de5d33a8f1%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639050673478939323%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5%2Bq8XmiP6i%2B7nRW353Kv3wKXGLaBxijmaUTF%2FaMO68k%3D&reserved=0>
+________________________________
+From: Nick Pardy <pardysurveys@outlook.com>
+Sent: Monday, January 26, 2026 8:02:46 PM
+To: Nick Pardy <johnnyappleseednl@outlook.com>
+Subject: RE: RPR Quote
+
+Hi Johnny,
+
+Thank you for your email. I have set this up as job 26-012 for 10 Hogan's Lane, Portugal Cove-St. Philip's.
+
+The invoice has been sent through QuickBooks.
+
+To complete the RPR, I need a few additional details:
+
+1. What is the closing or deadline date for this?
+2. Who should the certificate be made out to (purchaser name)?
+3. Do you have a copy of your current survey? If so, when was it done?
+
+Please note: If there hasn't been a survey completed on this property, or if it's over 10 years old, you'll need a full boundary survey along with the RPR.
+
+
+
+All the best,
+
+Claude
+Pardy Surveys Inc.
+
+Phone: 709-330-1502<tel:709-330-1502>
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7C9e59dcdf138d4b38217508de5d33a8f1%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639050673478970813%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SJSZWmllTxaZxRlMlPoJD8nSZDKoFK4Ngemc4nwFB7k%3D&reserved=0>
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+
+[Pardy Surveys Inc.]
+
+Automated response.
+Need Nick or Joe? Reply "HUMAN" to connect directly.
+
+________________________________
+From: Nick Pardy <johnnyappleseednl@outlook.com>
+Sent: Monday, January 26, 2026 11:31:36 PM
+To: Nick Pardy <pardysurveys@outlook.com>
+Subject: RPR Quote
+
+Hello,
+
+I need an RPR for 10 Hogan's Lane, PCSP.
+
+Johnny
+
+Get Outlook for Android<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C9e59dcdf138d4b38217508de5d33a8f1%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639050673478990225%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ED9o2Pd51d3hKsA%2BtSlNz73EkS1K%2FYEd01D6Vx6H66w%3D&reserved=0>

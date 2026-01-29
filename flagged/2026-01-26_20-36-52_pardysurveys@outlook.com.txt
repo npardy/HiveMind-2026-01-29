@@ -1,0 +1,46 @@
+REASON: Attempted to create QBO estimate for Johnny Appleseed per your instruction but got error: "Estimate creation returned None". Customer ID 2429 exists in QBO. Need to investigate why estimate creation is failing.
+============================================================
+
+Context: {"email_info": null, "context": "Nicholas approved regular pricing ($1,147.83) for Johnny's property. I attempted to create QBO estimate but the tool failed twice. Customer exists (ID: 2429, email: johnnyappleseednl@outlook.com). Property: 86 Greenslade Road, CBS. \n\nAlso noting: There's some address confusion in the records - proposal shows \"86 Greenslade Road, CBS\" but my previous email to Nicholas mentioned \"10 Hogan's Lane, PCSP\" with owner Sharon Holden. May need to clarify which property this quote is for."}
+
+From: Nick Pardy <pardysurveys@outlook.com>
+Subject: Re: [Hive Mind] Pricing Question - Johnny has TWO properties
+Date: 2026-01-27 00:01:47+00:00
+
+Hey Claude, I had a look at the deed. Our regular pricing is fine. Send him a quote with QBO and see if he bites
+
+
+Nick Pardy, N.L.S.
+
+Pardy Surveys Inc.
+
+
+
+Phone: 709-330-1502<tel:+17093301502>
+
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7Ce8c40bd03ad14c86af1b08de5d374b59%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639050689076233196%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KaPWAlblh%2FsRu3VOepQe0SnfzCKyGrS9Z%2BqV77wgVDc%3D&reserved=0>
+
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+
+________________________________
+From: Nick Pardy <pardysurveys@outlook.com>
+Sent: Monday, January 26, 2026 8:30:28 PM
+To: Nick Pardy <pardysurveys@outlook.com>
+Subject: Re: [Hive Mind] Pricing Question - Johnny has TWO properties
+
+Nicholas,
+
+Johnny has responded with the information you requested:
+
+**Current Registered Owner:** Sharon Holden (his wife)
+**Deed Registration:** Confirmed registered - lawyers handled it
+
+This should allow us to conduct a title search to locate any existing survey records for 10 Hogan's Lane, PCSP.
+
+He also pointed out that I had "All the best" duplicated in one of my previous emails - I'll watch for that in future responses.
+
+Awaiting your direction on:
+1. Whether to proceed with title search to locate existing survey
+2. Final pricing for this property (he still thinks $800 is high, but needs the full Boundary Survey + RPR at $1,147.83 since survey is from 1990s)
+
+-Hive Mind

@@ -1,0 +1,33 @@
+REASON: monday.com subscription renewal ($96 CAD) - failed to record expense in QBO
+============================================================
+
+Context: {"email_info": {"from": "monday.com billing", "date": "2026-01-24", "subject": "Renewal of your monday.com subscription", "amount": "$96 CAD", "description": "work management Pro - 3 seats monthly subscription"}, "context": "Subscription renewal for monday.com work management Pro (3 seats) charged on Jan 24, 2026. Amount: $96 CAD on card ending 6342. Next renewal: Feb 24, 2026. The expense needs to be manually recorded in QuickBooks under Software/Subscriptions category."}
+
+From: monday.com billing <no_reply@monday.com>
+Subject: [monday.com] Renewal of your monday.com subscription
+Date: 2026-01-24 07:03:16+00:00
+
+[monday.com]
+Your plan has been renewed!
+
+Thanks for choosing monday.com to help you accomplish another month of effective work
+
+Billing Period: Monthly
+[Product Icon]  work management Pro     3 seats
+You have been charged the amount of $96 cad
+
+Payment date: Jan 24, 2026
+
+Amount: $96 cad (tax is not included) Paid
+
+Method: Card ending in 6342
+
+Next renewal date: Feb 24, 2026
+
+Your invoice will be ready here<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdl.monday.com%2Fadmin%2Fbilling%2Finvoices%3Fdl_slug%3Dpardy-surveys%26dl_msgid%3Dc1b36d10-7059-46d4-8ef9-36d138ef3652%26dl_category%3Dbilling_mailer-renewal%26dl_userid%3D39946671&data=05%7C02%7C%7C9e7398fd86494a8fb27908de5b16a495%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639048349960509573%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IbBKCUBWh7em7TxZIRsWzqX6e%2Bm51BXHS0sNhemP4Jc%3D&reserved=0> for you to view and download within 24 hours.
+
+Have a great day,
+monday.com team
+For more information about account upgrades, read our billing article <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.monday.com%2Fhc%2Fen-us%2Farticles%2F360018098000&data=05%7C02%7C%7C9e7398fd86494a8fb27908de5b16a495%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639048349960534325%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5rlgAmqJl%2FxKnK1S3YXWPd0ZnnA%2B1nBj%2Bhuk33OoTxw%3D&reserved=0>
+Feel free to visit our Help Center <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmonday.com%2Fhelpcenter%3Fcontact-platform-redirect%3D1%252F&data=05%7C02%7C%7C9e7398fd86494a8fb27908de5b16a495%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639048349960551706%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hyvWWtwNYznaXPVvQt0hvHbKDdYkoyep9hafki4QT8k%3D&reserved=0> for any additional questions.
+

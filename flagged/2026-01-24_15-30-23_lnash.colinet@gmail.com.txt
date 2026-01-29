@@ -1,0 +1,19 @@
+REASON: Client canceling 22-125 after 4 years - extremely upset, no work completed, $1,700 unpaid invoice
+============================================================
+
+Context: {"email_info": {"from": "Loretta Nash <lnash.colinet@gmail.com>", "subject": "Survey", "date": "2026-01-24 19:00:19", "body_summary": "Canceling survey work after nearly 4 years waiting. Going elsewhere. Very angry about lack of response and completion.", "job_number": "22-125", "invoice_balance": 1700.0}, "context": "This is a serious service failure. Job from 2022 has no completed work, unpaid invoice, and now extremely dissatisfied client. Requires Nicholas's immediate attention for how to respond and resolve."}
+
+From: Loretta Nash <lnash.colinet@gmail.com>
+Subject: Survey
+Date: 2026-01-24 19:00:19+00:00
+
+Nick
+
+Due to your lack of response with our survey, nearly 4 years or longer, (we lost count) waiting on our survey to be completed you can disregard any work completed for us in Colinet
+
+We will be going elsewhere for the completion of the survey.
+
+Thanks for nothing! Its no wonder there is nowhere to provide a review on your website 🤨
+
+Robert and Loretta Nash
+Colinet

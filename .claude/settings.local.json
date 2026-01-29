@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(gh --version:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(powershell.exe -Command \"gh --version\")",
+      "Bash(winget install:*)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" auth status)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" auth login --web --git-protocol https)",
+      "Bash(git commit:*)",
+      "Bash(\"C:/Program Files/GitHub CLI/gh.exe\" repo create HiveMind --private --source=. --remote=origin --push --description \"Email automation and job management system\")",
+      "Bash(python:*)",
+      "Bash(cd:*)",
+      "Bash(findstr:*)",
+      "Bash(more:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(tail:*)",
+      "Bash(ssh:*)",
+      "Bash(cat:*)",
+      "Bash(type \"\\\\\\\\PS-NAS\\\\Pardy Surveys\\\\Data Sync\\\\events.jsonl\")",
+      "Bash(head:*)",
+      "Bash(stat:*)",
+      "Bash(wc:*)",
+      "Bash(docker logs:*)",
+      "Bash(gh auth status:*)",
+      "Bash(gh repo create:*)"
+    ]
+  }
+}

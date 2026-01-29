@@ -1,0 +1,76 @@
+REASON: Email bounce on job number conflict for 16 Reddley Place. My email to joe@pardysurveys.ca failed - DNS domain doesn't exist. Need correct email for Joe AND need to resolve the job number conflict I was trying to report.
+============================================================
+
+Context: {"email_info": null, "context": "Original email was marked HIGH importance about a job number conflict. The bounce means neither Nicholas nor Joe received my alert about this issue. Needs immediate attention to: 1) Get Joe's correct email address, 2) Resolve whatever conflict exists with 16 Reddley Place job."}
+
+From: Microsoft Outlook <MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@sct-15-20-9412-4-msonline-outlook-54db1.templateTenant>
+Subject: Undeliverable: [Hive Mind] Job Number Conflict - 16 Reddley Place
+Date: 2026-01-29 15:46:37+00:00
+
+Delivery has failed to these recipients or groups:
+
+joe@pardysurveys.ca<mailto:joe@pardysurveys.ca>
+A problem occurred during the delivery of this message. Please try to resend the message later.
+
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: BY1P221MB1478.NAMP221.PROD.OUTLOOK.COM
+
+joe@pardysurveys.ca
+Remote server returned '554 5.4.0 < #5.4.310 smtp;550 5.4.310 DNS domain pardysurveys.ca does not exist [Message=InfoDomainNonexistent] [LastAttemptedServerName=pardysurveys.ca] [SN1PEPF00030A16.namprd21.prod.outlook.com 2026-01-29T15:46:35.453Z 08DE5DF69CD2B749]>'
+
+Original message headers:
+
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=rbLRmeLyzbNd/xOuEDIGww+YKuxIgOBFdwpSLvs7OWmB9NxB1p/0iKvuC9D1hKsZXLtr6j6+PzP7gOqiDBvQ/38vNKYd97ZaGgnPUPK66k9tdzWCEFF4uy7Bn4LzeiRLBO3TM3ID5r3+hDtcWVoCeHgGB/VB5LStzRmOgrnalaypeqM8Ls5k1aovxFu6IFpt4SkvKkP2RT9JbX8dUXBgPznnLa/R/qe4ts73nEnolYluO72MyBskybsebjXxOGm7KOnU02Hri0ZvO6hv024CBC4j7NbfpdfSTR6coQ6dpDHEseh1KlHKCI76GmbGbrZMir5/rmO4lpwJYSHgyWSx/A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=91CS6Sd2zDVHUTV25ld1aWg/oRW4Cem1OR8/bOxhKuU=;
+ b=WZP2yZnbaVrbM+yBcjVprJs06JWbfZDCUKXpDI6fr60qBbbg5Rykp2jkdtlwGvktmVhI2DyCOryG5spmvXfghOsq/MCl/CttTEPxm90+LDjc2SmsVyRVU/zx1k8ROdu+pesP2RqCMA0jpnMNyiSBQBMHMhM4lw+O4L6GTs+fWMLDMK6Xt5e6X52bowktlW+U/dhSGROdxbCxKfk3EY6kUMseLXjfwB0TXg4DNOJRgIL2eWDrtOZEnvrgJpvlyMP6/8/BjkFGBm7xLIyufIgMmneYt0sbxS/U7qeX3yZEi5BnLRR821Xky43Zlj2iTEjwPa+RkgDKQhOjvcl15eQPiQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=91CS6Sd2zDVHUTV25ld1aWg/oRW4Cem1OR8/bOxhKuU=;
+ b=mZG5Qw+qAE63xaPftFEtSsF/XJERJk21mWXbDtLoUlEaMrDXt5rM3PSIQFMR5yKelWm3VgqTxZKBjGmaE5g8/mGJKfbXDrXfzNXRUFgjGo2VX9sF1xhV8uoYRi97aDVxJtO6fUEr97w8RKMm/yIDXP9GikVESChrOfgDIFoA4IAKn00lCnPD+T7U3zrCdKkT1T/gwZrDPo6gvcCZRQOqm1XG13nj+iDzcW/7aulRSnhGrgKXHqf0gZQaawZKD1JnkJoNsZYS7GXWxdtagLbMZGXM3KNM/YEeasE2ZfXN9ATO/KzytLihck/+gZAFNboi1Va9PfRDRBDjsftwpeb4Bw==
+Received: from IA6P221MB996806.NAMP221.PROD.OUTLOOK.COM
+ (2603:10b6:208:5de::13) by BY1P221MB1478.NAMP221.PROD.OUTLOOK.COM
+ (2603:10b6:a03:4ab::13) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9542.9; Thu, 29 Jan
+ 2026 15:46:34 +0000
+Received: from IA6P221MB996806.NAMP221.PROD.OUTLOOK.COM
+ ([fe80::cef5:79e:1e3f:798e]) by IA6P221MB996806.NAMP221.PROD.OUTLOOK.COM
+ ([fe80::cef5:79e:1e3f:798e%6]) with mapi id 15.20.9542.010; Thu, 29 Jan 2026
+ 15:46:33 +0000
+From: Nick Pardy <pardysurveys@outlook.com>
+To: Nick Pardy <pardysurveys@outlook.com>
+CC: "joe@pardysurveys.ca" <joe@pardysurveys.ca>
+Subject: [Hive Mind] Job Number Conflict - 16 Reddley Place
+Thread-Topic: [Hive Mind] Job Number Conflict - 16 Reddley Place
+Thread-Index: AQHckTZxPY2KPvdW6EyCegxxDewdgg==
+Importance: high
+X-Priority: 1
+Date: Thu, 29 Jan 2026 15:46:33 +0000
+Message-ID: <IA6P221MB996806BB670F8E553CAC94E3A5CF9EA@IA6P221MB996806.NAMP221.PROD.OUTLOOK.COM>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: IA6P221MB996806:EE_|BY1P221MB1478:EE_
+x-ms-office365-filtering-correlation-id: d08c082e-f83e-4704-a98f-08de5f4d93f4
+x-ms-exchange-slblob-mailprops: 5fu/r660v9OFyJ+CxyO6ueseEO2yHaMVkobY97PtYJPVYDuNT+x5tGghza7ZaddIpcjb5XB9sgh1gnD7LOHXYD1dhVv/L8Hv/eLKBn+PEMpN0EUYfL85XP4axReTbadCNDWs9+pBahQNj1n9BuW8hm6e/lHtkdkI45+ZXl+mjN++Pkhe0ev4hFVfNof4qBNOkpxaXiaukams7l/EeBZt9j1Od/JHrXfBwNagUhn0xJGl+85t4/6TU2gpJEieT24cd7bm1kdgUmlmQgR5PI6+FM13od0mph2TWuxbh0UhCU25C90IN1avEk0kv8oR3ghmoEAjJLb76vNgQdGouHLktsNSLngcemUsXap3zG1MPboUp0d1pmN2bybubHxF5NQWdIoX7Y7KFQWFaStPzqpUhI1ywVm4PYzYMEZsU/7OLkZcIuPNmoxXMYKk7yjJ6fxbVP3l+J0tkyXfIfLQge42axk/0n9WHRi/jpi660VkcAcJltjIPBexLgb6KhhSue18LAQra2BnbvIJjds+P2ofRzkgnRFzF7HjAaDYqP8F+jmFZOGHA0mFh+IS+Oy9SqVG7mnZWOLGgl4YQh/j9Od+A1nwhZjKO9TNYKUYpbxxWB0K772evI36JqLOQVMO3FxyvvJwAbjz8o9CJ0/2+pfhe5tkgcdgGtJvALMoNih6JAbJM0e4sVqo+IKAEhIMewYLD5iF6cOgI66WLCQFPHEIe/4cdcxxkk+KsIYn6tmS03U=
+x-microsoft-antispam: BCL:0;ARA:14566002|8062599012|8060799015|19110799012|41001999006|15080799012|51005399006|31061999003|38102599003|461199028|5062599005|3412199025|40105399003|440099028|102099032|1710799026;
+x-microsoft-antispam-message-info: =?us-ascii?Q?1OROoDMPXVR6ydeWI7X+nHnbXbIuwRHkrJthHHDM9SKkc02HEU8NaS8jfcps?=
+ =?us-ascii?Q?il86lspb8BOmkQ3el5XixGLr9vK0RXi0UiWAffxi/YOiEQYVcUaQiSkXPJQt?=
+ =?us-ascii?Q?VetN0bX/P8aqfaSC+XH/1nKwtOKlc0dxwG9XqlMSL7HnvRQdkBMDImcV7JV0?=
+ =?us-ascii?Q?XrTn2NcAPGCu95GxwNBd0zZQwz9J

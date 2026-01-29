@@ -1,0 +1,14 @@
+REASON: URGENT: COA application needed before Thursday for ANLS council meeting renewal. Josh (ANLS Secretary Treasurer) requesting Nick's Certificate of Authorization application.
+============================================================
+
+Context: {"email_info": {"from": "ANLS Secretary Treasurer <st@anls.ca>", "subject": "COA Application", "date": "2026-01-27", "body": "Need your COA application - ideally before Thursday to I can renew it a council meeting", "sender_name": "Josh"}, "context": "Email from st@anls.ca requesting COA application ideally before Thursday for council meeting renewal. This is a regulatory/professional licensing matter that requires Nicholas's personal attention and completion."}
+
+From: ANLS Secretary Treasurer <st@anls.ca>
+Subject: COA Application 
+Date: 2026-01-27 21:48:33+00:00
+
+Hey Nick,
+
+Need your COA application - ideally before Thursday to I can renew it a council meeting
+
+Josh

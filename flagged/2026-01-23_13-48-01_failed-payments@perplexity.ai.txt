@@ -1,0 +1,37 @@
+REASON: URGENT: Failed payment for Perplexity AI subscription - $460.00 charge unsuccessful on Visa ending in 7900. This is a second failed attempt. Action required: Update payment method to maintain service. Link to update payment: stripe.perplexity.ai/p/subscription/recovery
+============================================================
+
+Context: {"email_info": {"from": "failed-payments@perplexity.ai", "subject": "$460.00 payment to Perplexity AI, Inc was unsuccessful again", "date": "2026-01-23 17:17:42", "message_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFj3cLKwAAAA=="}, "context": "Email from: failed-payments@perplexity.ai\nAmount: $460.00\nCard: Visa ending in 7900\nStatus: Second failed payment attempt\nThis is a business software subscription that needs immediate payment method update to avoid service interruption."}
+
+From: Perplexity AI, Inc <failed-payments@perplexity.ai>
+Subject: $460.00 payment to Perplexity AI, Inc was unsuccessful again
+Date: 2026-01-23 17:17:42+00:00
+
+
+We weren't able to charge the credit card you provided.  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­
+
+<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.perplexity.ai%2F&data=05%7C02%7C%7Ceabb3a97e9e84b58a71708de5aa34f8e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047854617489667%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ihzjbTzF4NH4eIz90kAxwpi4SuI3Kbgx7ytWBFXuZPU%3D&reserved=0>
+        Perplexity AI, Inc
+
+
+        $460.00 payment to Perplexity AI, Inc was unsuccessful
+
+We attempted to charge your Visa ending in 7900 for your Perplexity AI, Inc subscription again, but were unsuccessful. Please update your billing information to continue your subscription.
+
+Update payment method <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstripe.perplexity.ai%2Fp%2Fsubscription%2Frecovery%2Flive_YWNjdF8xTjlZcUJHWndqcVBmeGtaLF9UaWRGTFFSUGNNOWltTDF4d2JhcVhndzBpbk1OampQ01005Ni5AsNW%3Freferer%3Dfailed_payment&data=05%7C02%7C%7Ceabb3a97e9e84b58a71708de5aa34f8e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047854617537198%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QoFcAkyG73%2FuekOQlkf50fsaCgOsg3hKC8J%2FoWqsmA0%3D&reserved=0>
+
+Manage your subscriptions <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstripe.perplexity.ai%2Fp%2Flogin%2F6oEeXaewnb3z1facMM&data=05%7C02%7C%7Ceabb3a97e9e84b58a71708de5aa34f8e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047854617570691%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cmHITgLWmf43hvC2G4PpqN8geAl62cvMHW6T0nYXBeo%3D&reserved=0>
+
+
+
+Questions? Contact us at support@perplexity.ai<mailto:support@perplexity.ai>
+
+
+
+
+
+
+Powered by [stripe logo] <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2F59.email.stripe.com%2FCL0%2Fhttps%3A%252F%252Fstripe.com%2F1%2F0101019bebdc8dfd-3bfc8999-4722-4993-a133-cbe039b377dc-000000%2Fgwosd2PmbK7tg1VmpBe7nnfjZKV-RYNRISFDFt7MmGU%3D441&data=05%7C02%7C%7Ceabb3a97e9e84b58a71708de5aa34f8e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047854617597570%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BS7t5u9q6%2Fnom8CixDnueHvZnuSnuQZgSD9jdR7ULrQ%3D&reserved=0>   |   Learn more about Stripe Billing<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2F59.email.stripe.com%2FCL0%2Fhttps%3A%252F%252Fstripe.com%252Fbilling%2F1%2F0101019bebdc8dfd-3bfc8999-4722-4993-a133-cbe039b377dc-000000%2F5MPv3w_4a554sBqkAmK_1dTCFI5wBwHJZhXxkpMj5Jo%3D441&data=05%7C02%7C%7Ceabb3a97e9e84b58a71708de5aa34f8e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047854617622582%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TU7xvQZmO9oVSabi1kltD6rNSKwica3gfEQeHgoFQAI%3D&reserved=0>
+
+
+

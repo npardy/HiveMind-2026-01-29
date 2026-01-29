@@ -1,0 +1,32 @@
+REASON: QBO expense recording failed for QuickBooks subscription payment ($218.50). Email processed and filed, but expense needs to be manually recorded in QuickBooks.
+============================================================
+
+Context: {"email_info": {"sender": "Intuit", "subject": "Your Intuit subscription Pre-Authorized Debit payment is scheduled!", "date": "2026-01-25", "invoice_number": "2300162598553", "amount": 218.5, "items": "QuickBooks Online Plus + Payroll Premium"}, "context": "Intuit subscription invoice 2300162598553 for $218.50 CAD (QBO Plus + Payroll Premium), payment date Jan 25, 2026. The qbo_record_expense tool returned an error. Email has been marked read and moved to Email/Processed folder."}
+
+From: Intuit <No_Reply@notifications.intuit.com>
+Subject: Your Intuit subscription Pre-Authorized Debit payment is scheduled!
+Date: 2026-01-25 15:32:47+00:00
+
+[Intuit logo] [Intuit logo]  <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Felink.prd.intuit.com%2Fss%2Fc%2Fu001.HiknLRd2Wv82qs5XbGcPmaKzz8j5FyrRYvYnqm6A9x0%2F4nl%2FaQUfy9itTIyclPm-nR8HmA%2Fh1%2Fh001.U4hFN4uFfQdvzOBF3VgVBvOsGLMPAkr6v9qb9ZBlsqk&data=05%7C02%7C%7C44fa3619b8904248d6a108de5c270168%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049519669707350%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TF4UILEdEhEUVhjf%2FO0UUeA7bbBnYA%2BM4KjUNTc6PTw%3D&reserved=0>
+[success-icon]
+Payment scheduled
+Nick Pardy, thank you for your payment.
+Invoice number:                 2300162598553
+Invoice date:           25/01/2026
+Total:          $218.50
+Financial institution and transit numbers:              00457153
+Payment account ending:                 2979
+View billing history<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Felink.prd.intuit.com%2Fss%2Fc%2Fu001.WVMg7PM6utnUYX1Yq78VGCqrCut29Q7J31UBVQAEc-fFQfcYP5hIhhwLEvN_Pv4eDK5nbcnMugJBDQDxj9QPquR24WN8qmZK11XWwLCdyNI%2F4nl%2FaQUfy9itTIyclPm-nR8HmA%2Fh2%2Fh001.k_PKon5pqeOfJdnyGA9T9k2g3N5Gmi_Gue1iXbGJGKM&data=05%7C02%7C%7C44fa3619b8904248d6a108de5c270168%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049519669734321%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KjUK8qg%2B5jprV%2FV3HkzEzf%2FbYjSr0kC7oRjSm0eRRWY%3D&reserved=0>
+Amounts are shown in CAD.
+Sign in to Intuit where you can see your billing history and view, save, and print your invoice and Pre-Authorized Debit advance notice.
+Account details
+Billed to:              Pardy Surveys Inc.
+Company ID ending:              0196
+Items on this invoice:          QuickBooks Online Payroll Premium
+Per-Employee Payroll Fee
+QuickBooks Online Plus
+(1) For subscriptions, your payment method on file will be automatically charged monthly/annually at the then-current list price until you cancel. If you have a discount, it will apply to the then-current list price until it expires or is canceled. Additional service fees may apply based on whether you add or remove services and your usage. See your Subscriptions and billing<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Felink.prd.intuit.com%2Fss%2Fc%2Fu001.WVMg7PM6utnUYX1Yq78VGCqrCut29Q7J31UBVQAEc-fFQfcYP5hIhhwLEvN_Pv4eDK5nbcnMugJBDQDxj9QPquR24WN8qmZK11XWwLCdyNI%2F4nl%2FaQUfy9itTIyclPm-nR8HmA%2Fh3%2Fh001.evnfTkw1q17GwagEqtZl6PY3yCOil37pATOLqMUvNUo&data=05%7C02%7C%7C44fa3619b8904248d6a108de5c270168%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049519669753301%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=JRYPh2Zwl%2FW3ysemKoJz9%2BRkSptCEykvmkLAghhATXQ%3D&reserved=0> page for additional pricing details. To cancel your subscription at any time, go to the Subscriptions and billing page and cancel the subscription.(2) For one-time services, your payment method on file will reflect the charge in the amount referenced in this invoice. Terms, conditions, pricing, features, service, and support options are subject to change without notice.
+[https://digitalasset.intuit.com/render/content/dam/intuit/sbseg-email/en_us/icons/email-icon-customer-support-dark.png] <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Felink.prd.intuit.com%2Fss%2Fc%2Fu001.gHniYfGSzcxMWfXEaX1bzaKlrrhAViAxLhgNwMs-L7cv_md4KQJAoGu_1uvv7PC-6Z1xmw_wHU3QG3vJ8RVICg%2F4nl%2FaQUfy9itTIyclPm-nR8HmA%2Fh4%2Fh001.NoIYUfqJTYm-LPJjWQjQDiAsYgCLeTXpJt_7YWma3ak&data=05%7C02%7C%7C44fa3619b8904248d6a108de5c270168%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049519669769870%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HpUHFjxkwae68vzTN4ee38gnVunqq7zB4NavvciY2eI%3D&reserved=0>
+Questions or concerns?
+Visit customer support <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Felink.prd.intuit.com%2Fss%2Fc%2Fu001.gHniYfGSzcxMWfXEaX1bzaKlrrhAViAxLhgNwMs-L7cv_md4KQJAoGu_1uvv7PC-6Z1xmw_wHU3QG3vJ8RVICg%2F4nl%2FaQUfy9itTIyclPm-nR8HmA%2Fh5%2Fh001.PoY3FxIlQg57aWkxeCLeC1LAoDWeF_q89GExF0KWUEg&data=05%7C02%7C%7C44fa3619b8904248d6a108de5c270168%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049519669786806%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bPX7TEOo%2B6Y1%2BPHBNbsTnf0sGjfG0GlgDJNVK%2B0DRzQ%3D&reserved=0>
+Look up your charge <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Felink.prd.intuit.com%2Fss%2Fc%2Fu001.gKfYpNGYx2pr8ONmrqwjaEuMGBoQkDnPxAGSVSu2ZbPAN3YwPQuOrK6UrgnvP4SU%2F4nl%2FaQUfy9itTIyclPm-nR8HmA%2Fh6%2Fh001.j6sTeRXcxlMNFIUfdM8sBN12tqqQwm6iuT6kgs3ctng&data=05%7C02%7C%7C44fa3619b8904248d6a108de5c270168%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049519669803676%7CUnkno

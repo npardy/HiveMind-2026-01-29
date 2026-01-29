@@ -1,0 +1,65 @@
+REASON: ANLS Secretary Treasurer (Josh) is asking Nicholas to confirm if Lexi is still a director of Pardy Surveys Inc. They're checking against registry of deeds for the COA (Certificate of Authorization) application and need confirmation before the council meeting. This is a corporate governance question that requires Nicholas's direct answer - I cannot confirm or deny director status.
+============================================================
+
+Context: {"email_info": {"from": "ANLS Secretary Treasurer <st@anls.ca>", "subject": "Re: COA Application", "date": "2026-01-29", "message_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFkeXX-AAAAA==", "body_summary": "Josh confirming whether Lexi is still a director - they're checking against registry of deeds for company good standing as part of COA renewal process"}, "context": "This is part of an ongoing COA application thread. Nicholas already sent documents on Jan 28th. Josh is now following up to verify Lexi's director status as part of their registry verification process."}
+
+From: ANLS Secretary Treasurer <st@anls.ca>
+Subject: Re: COA Application 
+Date: 2026-01-29 00:23:45+00:00
+
+Thanks Nick - just want to confirm that Lexi is also still a director? We also check against registry of deeds to make sure the company is in good standing and notice she's listed
+________________________________
+From: Nick Pardy <pardysurveys@outlook.com>
+Sent: January 28, 2026 2:10 PM
+To: ANLS Secretary Treasurer <st@anls.ca>
+Subject: RE: COA Application
+
+
+Hey Josh,
+
+
+
+Please see the attached.
+
+Sorry for the delay.
+
+
+
+
+
+[cid:image003.png@01DC905F.D83272F0]All the best,
+
+
+
+
+
+Nick Pardy, N.L.S., N.S.L.S., P.Surv.
+
+Pardy Surveys Inc.
+
+
+
+Phone: 709-330-1502
+
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7C4fa1d1ce1c5f4eb0285c08de5ecca862%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639052430248354387%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wH5Y5AprubQDqk5T025qIyaMbCsyIy8ZtctJ40VeN1o%3D&reserved=0>
+
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+
+
+
+From: ANLS Secretary Treasurer <st@anls.ca>
+Sent: January 27, 2026 6:18 PM
+To: pardysurveys@outlook.com
+Subject: COA Application
+
+
+
+Hey Nick,
+
+
+
+Need your COA application - ideally before Thursday to I can renew it a council meeting
+
+
+
+Josh

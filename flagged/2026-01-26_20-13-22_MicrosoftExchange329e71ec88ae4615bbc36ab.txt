@@ -1,0 +1,85 @@
+REASON: CRITICAL: Email delivery failure - joe@pardysurveys.ca does not exist. The [Hive Mind] email about "Johnny has TWO properties" never reached Joe. Correct email is likely joe@pardysurveys.com (not .ca). Need to: 1) Verify Joe's correct email address, 2) Resend the original message about Johnny's two properties, 3) Update email configuration to prevent future failures.
+============================================================
+
+Context: {"email_info": null, "context": "{\"failed_recipient\": \"joe@pardysurveys.ca\", \"dns_error\": \"DNS domain pardysurveys.ca does not exist\", \"original_subject\": \"[Hive Mind] Pricing Question - Johnny has TWO properties\", \"likely_correct_email\": \"joe@pardysurveys.com\", \"failed_timestamp\": \"2026-01-26T23:40:57Z\", \"action_required\": \"Verify Joe's email and resend the Johnny properties message\"}"}
+
+From: Microsoft Outlook <MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@sct-15-20-9412-4-msonline-outlook-54db1.templateTenant>
+Subject: Undeliverable: [Hive Mind] Pricing Question - Johnny has TWO properties
+Date: 2026-01-26 23:40:50+00:00
+
+Delivery has failed to these recipients or groups:
+
+joe@pardysurveys.ca<mailto:joe@pardysurveys.ca>
+A problem occurred during the delivery of this message. Please try to resend the message later.
+
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: PH7P221MB0936.NAMP221.PROD.OUTLOOK.COM
+
+joe@pardysurveys.ca
+Remote server returned '554 5.4.0 < #5.4.310 smtp;550 5.4.310 DNS domain pardysurveys.ca does not exist [Message=InfoDomainNonexistent] [LastAttemptedServerName=pardysurveys.ca] [DS3PEPF0000BAB3.namprd04.prod.outlook.com 2026-01-26T23:40:57.532Z 08DE59876969697B]>'
+
+Original message headers:
+
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=rOwgHW6kOXXkyAXWBYTzUziWM6GuVRo2sa9YO4D5GqHxY9ds603dhmrFsKH7V6CwSEig6RiMLFR/0ZvORem2jDPpt1x9+BuHxVRJbM9dTyDW+/ju9nDw2AeXZ6NK/SXWbM3rJIff2zgzNTH2yeDYCyKDRCyXSPYu/tanCZ+2TnxmAGUSAcUQubr4mYJqVHSkF2xXRWcOVNJKSnQrtKRA1aUVhVprKQdCEunYMhGuAeiqVhWHJLgxaQ1Ud5YFAZKx8KOWmS0skT2gm80UkD8U5Zjgh0Nn8qVajXm/3BjEStjVgWM3FAiqOAmDt0hDrwVXQyYXCc7BvQoPb09AptESJA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=UPiHjJfyr1mE5+nix3wDyzXyKOyhyDF5VOEIxwPB9pA=;
+ b=NM0NkFLV9hti38QWBgKfphUEEpVBYRw4DGVyRnOa8jKnJBXYVDJWX5w1l69pbizGu2uRRUYik1Uepm3lE3iUGPdN+zsfOpO/vpHORyIJfGX399CLfnUKQF3bDzaQ9aGYOrHKXuopt1Zs46kKK2k+qE29thplZLRKFJIRA6hEKtKKMLsCf/v5dp8kHcyrBnx/nDqq0S4u8/53r/7kpCr/h9AvGkPzCvaJTGJKTyr9lpI27kWr6uW8OMmITzW3Rjf/4iHnUFWZrbFrAhTtR+GHiGDIKcdexwEPn9ijsVQDw35NpvObZ/7YIkAwfPBGjQIuVl2GseUxavnOYWDZcCkqZg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=UPiHjJfyr1mE5+nix3wDyzXyKOyhyDF5VOEIxwPB9pA=;
+ b=c6qGBt1t4gMEVsjobNKKwp0eSsClRNTWjKXQg/PqgGcwYP5LstP9SHOBo3yVILJaKJnQEdKXKnDmbgAGZc8jUdBZ8Fy/8iYnCngYP4laupplIqiRbIZiWoW2tbLjwZ10jA1A+fr5U0ZVTi0CetZZLTzkDiCZ7u4gv04FZQE0eWbmkK7PysmpkfaKiiCMZc5f2okXhWOcS6fQbNFLp+/9vPlNKiIJ1JyJ+vELGNNwV2Fx5RFrANTvooOCOh/iaP5z76DAWw1c+fGkPKP9AWnVEzVL8tpGeac9SkHxnDz57hvX0ytkoVYm57le6KO9uIgaSpuAIzLQZVDa64mVVKZKwg==
+Received: from MW4P221MB1071.NAMP221.PROD.OUTLOOK.COM (2603:10b6:303:20b::22)
+ by PH7P221MB0936.NAMP221.PROD.OUTLOOK.COM (2603:10b6:510:1aa::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9542.11; Mon, 26 Jan
+ 2026 23:40:41 +0000
+Received: from MW4P221MB1071.NAMP221.PROD.OUTLOOK.COM
+ ([fe80::2c47:fbe6:ec71:f9f3]) by MW4P221MB1071.NAMP221.PROD.OUTLOOK.COM
+ ([fe80::2c47:fbe6:ec71:f9f3%3]) with mapi id 15.20.9542.015; Mon, 26 Jan 2026
+ 23:40:41 +0000
+From: Nick Pardy <pardysurveys@outlook.com>
+To: Nick Pardy <pardysurveys@outlook.com>
+CC: "joe@pardysurveys.ca" <joe@pardysurveys.ca>
+Subject: [Hive Mind] Pricing Question - Johnny has TWO properties
+Thread-Topic: [Hive Mind] Pricing Question - Johnny has TWO properties
+Thread-Index: AQHcjx0uFczdgHAJ9kubTKtlkGQ36w==
+Importance: high
+X-Priority: 1
+Date: Mon, 26 Jan 2026 23:40:41 +0000
+Message-ID: <MW4P221MB1071913BBB19DDF04E402D3FCF93A@MW4P221MB1071.NAMP221.PROD.OUTLOOK.COM>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: MW4P221MB1071:EE_|PH7P221MB0936:EE_
+x-ms-office365-filtering-correlation-id: 72e66b1d-66da-400f-b1f1-08de5d345148
+x-microsoft-antispam: BCL:0;ARA:14566002|461199028|31061999003|38102599003|15080799012|8060799015|8062599012|19110799012|5062599005|3412199025|440099028|40105399003|52005399003|102099032|1710799026;
+x-microsoft-antispam-message-info: =?us-ascii?Q?Rc/R0J39WuNdegFqc2Y0nyX67gpmh9voHU+l8XMmgeaRQBUjdMM+0XRes0ed?=
+ =?us-ascii?Q?IsafOcqBeV4hLAmIqDfENOgnXZ4XWmZklWNk8/Toz7R7dQ+M4iGNOafKua9T?=
+ =?us-ascii?Q?pgPm/5AG2xTHn0ohMY5OprJSh4LXIyQ9InkcpF6G6sWzCA1t6yEyjJ6k3Lul?=
+ =?us-ascii?Q?J4BaI57cfoTTN87I1b8YB4L8z0tk+VaIUDck6wzFbBbDlHGQYHJoXP4Z9krV?=
+ =?us-ascii?Q?FAtG4q0viZnueL6HbqxVau33pMH3lAbE0hPyeBn0DvxDECuUTdG6l8funy/w?=
+ =?us-ascii?Q?yeTywPYqJ47xhAD8Ju8YY59ImlFBXVNoZI78c0/0QKDN9P/XV077zaa1ty6r?=
+ =?us-ascii?Q?DeUUEXFt+Qqi7bMOX6d97+Y9tRQ1i9ofeJ2Fkee5Vl4dtroy+ASRFlsc6Rz+?=
+ =?us-ascii?Q?8NxOo6+YUZ79ed/OaIx/v41ZclvEIH6zcvlIQKVcHOXMwmhdZRPjWC/ylxlQ?=
+ =?us-ascii?Q?7kBB14aM4XWaS0IygSnX8vCHZbwetRsFIctuyJPtVp9hdLbU9f50UB3Hgzsr?=
+ =?us-ascii?Q?0mHU5dxsOQuXyZl6Shd+/EtXx5yIwwdzVEM2YHwDCtpJRk9dsO4PUJ8ox6Bs?=
+ =?us-ascii?Q?Bgmeusv+8rSEt6j+DgDS9vIUuhxNTa2VE5uJ/ITqZILUDrxGylt9dX+WmH5f?=
+ =?us-ascii?Q?EWtmPl5iD1cXLXQXyyLVdxSf9JZKkiKS0LsOJ8iQiatCYbRSIlDh4lYxu5i5?=
+ =?us-ascii?Q?3gozOT7fcQbVgqlzCLnJGbmJLZT/J5uHoItgQIt4xjfdbVvM6qB68VxGk4gt?=
+ =?us-ascii?Q?fL4B8LxlM0Ky6Ge1OsPcQ/iECHD3gtI2dXvuz7W

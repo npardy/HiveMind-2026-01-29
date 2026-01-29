@@ -1,0 +1,46 @@
+REASON: Software subscription renewal from Vertical Aspect for Terrasolid UAV (TerraScan) annual subscription. Quote attached in PDF. Needs Nicholas's decision on whether to renew and approval of expense amount.
+============================================================
+
+Context: {"email_info": {"from": "Chris Palmer <cpalmer@verticalaspect.com>", "subject": "2026 Terrasolid Software Renewal - Pardy Surveys", "date": "2026-01-29", "message_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFkeXYRgAAAA==", "has_attachment": true, "attachment_name": "Terrasolid Renewals - Pardy Surveys Inc..pdf"}, "context": "Vendor: Vertical Aspect LLC\nContact: Chris Palmer (cpalmer@verticalaspect.com)\nSoftware: TerraScan UAV Annual Subscription\nComputer: THURNK-STATION\nQuote attached: Terrasolid Renewals - Pardy Surveys Inc..pdf\n\nThis is a business expense that requires Nicholas's review and approval. He needs to:\n1. Review the quote/pricing\n2. Decide whether to renew\n3. Check if any changes needed to license pool\n4. Authorize payment if proceeding"}
+
+From: Chris Palmer <cpalmer@verticalaspect.com>
+Subject: 2026 Terrasolid Software Renewal - Pardy Surveys  
+Date: 2026-01-29 16:21:56+00:00
+
+Hi Nick,
+
+
+I hope you're doing well.
+
+
+I've included some more information on your account below as well as a quote for your reference.
+
+
+X TerraScan UAV Annual Subscription
+
+
+Computer Name=THURNK-STATION
+
+Computer ID=06650C65DAA0
+
+Type=Workstation
+
+
+Let us know if you have any questions on the above or the attached quote and if you would like to make any changes to your license pool.
+
+
+If anyone on your team is in need of any support, feel free to contact us at: Support@VerticalAspect.com
+
+
+Thank you,
+
+--
+Chris Palmer
+Director of Sales
+cpalmer@verticalaspect.com
+C: 573-356-9092
+Vertical Aspect LLC<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fd5fzlb04.na1.hs-sales-engage.com%2FCtc%2FZY%2B23284%2Fd5FzLb04%2FJkM2-6qcW6N1vHY6lZ3nMN5R_dPhwBMdtW1wdzj82dNhwRN8kx-__wyb0KW1Y_VB128Gyz2W8W5BJh7PJDqCW6wj7jP32s7CHW5tQ9qT4FxQVMW5Htzjg4nMl-MW3X4g9j2gLNXcW53N6PT2k_XqmW7f1QYL9gTB0LN4g5L6dSS6wTVwmtHj7bnS8WW6BcBnZ5ydmZkVH66K24NCFrJMCCxvJjr68_W8vMhVv2f0j1pW5_15jk7hRQCdW3y3JKk8V2G7vW4QQJWV40PDjXW4RwpjM1H8Sq_W4pNLJS6xhhR4f8Pnxvn04&data=05%7C02%7C%7C05e19db64c394783080b08de5f527d61%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639053005165024772%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Gzy2s5YeKWskoRtetvzu2YU1JnOB%2FgzTI8J%2BBB5URqw%3D&reserved=0>
+[cid:e32b5cbe-7c5c-4b2b-a39c-40f0c16bbce1]
+
+
+

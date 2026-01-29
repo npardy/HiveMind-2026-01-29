@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# System
+#recycle/
+*.PDF
+
+# Logs
+logs/
+
+# Temp files
+NDH6SA~M
+ZDD4CV~T.PDF
+ZQWDIP~G.PDF
+ZSKVFT~S/
+ZU8JAX~5/
+ZYUH99~H.PDF
+
+# Sensitive data
+data/graph_token_cache_v2.json
+data/qbo_token_cache.json
+
+config.yaml
+config.nas.yaml
+Chat History/

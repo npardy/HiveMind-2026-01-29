@@ -1,0 +1,75 @@
+REASON: Email bounce - Joe's address joe@pardysurveys.ca is invalid (domain doesn't exist). I tried to CC him on a job clarification for 25-199 (116 Northside Road, Bay Bulls) but the email bounced. Need Joe's correct email address.
+============================================================
+
+Context: {"email_info": null, "context": "Original email was a [Hive Mind] URGENT message about job 25-199 after Nicholas clarified the job number. The email to Nicholas went through, but Joe's address bounced with DNS error."}
+
+From: Microsoft Outlook <MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@sct-15-20-9412-4-msonline-outlook-54db1.templateTenant>
+Subject: Undeliverable: [Hive Mind] URGENT - 116A Northside Road - No Job Record Found
+Date: 2026-01-29 15:24:39+00:00
+
+Delivery has failed to these recipients or groups:
+
+joe@pardysurveys.ca<mailto:joe@pardysurveys.ca>
+A problem occurred during the delivery of this message. Please try to resend the message later.
+
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: SJ5PPF0A5353EA5.NAMP221.PROD.OUTLOOK.COM
+
+joe@pardysurveys.ca
+Remote server returned '554 5.4.0 < #5.4.310 smtp;550 5.4.310 DNS domain pardysurveys.ca does not exist [Message=InfoDomainNonexistent] [LastAttemptedServerName=pardysurveys.ca] [BN3PEPF0000B114.namprd04.prod.outlook.com 2026-01-29T15:24:33.756Z 08DE5995FA969236]>'
+
+Original message headers:
+
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=nZwFY1nBpJiQ2bZduot7kQr+SNcdovLZ8s2PnCzJGxVdQvxTGSkiZ9l2MwwFIflviLdXbMRZiBBd/6S4T1hfgUfOWGUU3GYbqlFtRRtHutmeEQX1QiFW2FLRqW8YyGK7PwOsRTtLBvjEasxKPEFhwuwVXxNYGy/4cCZ81K3Jjpw9QCuVaL73ItLjW2xdRJJ0Lm/zKNmJGB5ovah6hFQTlnyx8LLB7RRGAdK+8S0I9Z1VaOy63FVC55XOr1a6IEOG73SmXJo7Qv6oyIjvwLm2CmwQajd2BqYn+6MHpDn52THuGNXREwL+3jCGPn2Au4Z2i8J3tmQfd66esYpVopW2yg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=7ajpJmb/2Kw3TbKkg8klmxb5KovPmNVybLYSJsHChqE=;
+ b=ocuwTTxujVcv9ylcGbacedGieTQGLjczjHcLJCVwbz2Zcur8Jl4KzHyBjKwCmbiRz+smt/2U4nkb2LeXRw/6hBJgywEP2/8IaF7cLn0CcCJljeBiDIpysis32C3/jPlPvkv66RYZgcoDBbJHN5k4WERyBwWhyOTzLh8uWLnW17N2T0p9GO9l5fGUc5HaLqXGeZuZYxfn4W80L8cTvuQMWSdi+tPre7GJip6gAXj2xxuC40K5Vq/KyjcT7JTL46Xg6AkTCOAx5DDVc7UITU9h4O89bHRVhZH1GZPYHh/tABWwBDGzcuWAzYUafPAusYXu7GTo0bQFWtwJC2dvr3cvtA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=7ajpJmb/2Kw3TbKkg8klmxb5KovPmNVybLYSJsHChqE=;
+ b=nvyvsA30YvGdjIoCnCzBk4tZsZElH8v+Qa5HqL/6bjBXVM/T5QKYWWZAfZhGgOSUlK+5w6xQAIqy2E+1d+bB4m3KhR7wQFecZURWo60DvqCHlihB89oDApox0WFQbjnBLAcIIMVuV7zQ0+J5lqSx1N6avauI2UTHDNMq2N7aUOCte8P58K5IDhSyE1ryjJ5S3we6zJPPF8bm4G/a053fTz4f6/2qRRo+6LkGOGBA/50xbqbaYUC/r3My71h7BrrMjWmlpHwg1LTqBPxrowsM7g5TcMIxdmhnAd6Re7WkHKGkz5yfee+7K8zdWhwGih/Yj558caKnymP4ton8YMsFAQ==
+Received: from IA6P221MB996806.NAMP221.PROD.OUTLOOK.COM
+ (2603:10b6:208:5de::13) by SJ5PPF0A5353EA5.NAMP221.PROD.OUTLOOK.COM
+ (2603:10b6:a0f:fc02::68b) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9542.15; Thu, 29 Jan
+ 2026 15:24:32 +0000
+Received: from IA6P221MB996806.NAMP221.PROD.OUTLOOK.COM
+ ([fe80::cef5:79e:1e3f:798e]) by IA6P221MB996806.NAMP221.PROD.OUTLOOK.COM
+ ([fe80::cef5:79e:1e3f:798e%6]) with mapi id 15.20.9542.010; Thu, 29 Jan 2026
+ 15:24:32 +0000
+From: Nick Pardy <pardysurveys@outlook.com>
+To: Nick Pardy <pardysurveys@outlook.com>
+CC: "joe@pardysurveys.ca" <joe@pardysurveys.ca>
+Subject: [Hive Mind] URGENT - 116A Northside Road - No Job Record Found
+Thread-Topic: [Hive Mind] URGENT - 116A Northside Road - No Job Record Found
+Thread-Index: AQHckTNdPefGw8czn0aR4XJp5QhhOg==
+Importance: high
+X-Priority: 1
+Date: Thu, 29 Jan 2026 15:24:31 +0000
+Message-ID: <IA6P221MB996806C550C9DB3CB42A191EEFCF9EA@IA6P221MB996806.NAMP221.PROD.OUTLOOK.COM>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: IA6P221MB996806:EE_|SJ5PPF0A5353EA5:EE_
+x-ms-office365-filtering-correlation-id: b354f4a3-896c-41a1-2c81-08de5f4a805e
+x-ms-exchange-slblob-mailprops: laRBL560oLS7IWERjHonlu/qsKr3Bu1ZxMI4V0H09JTa60OoqJ8rSApZgqB+SLE/QeSwNiEUHgHaTIfLxdbaqEmzShrS0VX+Fkfxx8qtn6kwRjqaTc+ifQsMkpeGqcaHspWasa8vZrZOJCH2P6Hv8jqDYR6N3PF6iWB00HD4pD7ge7QNSoThFSkTPie5CQdGag8dDFGvP7VvtgNm8f7Cp6Qh3jEBfdOsHiPoBpb55RxqHJ7t8Cd6LwqzQB0npxNmQl9IQ62Xh6Z+eP8sukfC/yBAQKmJAPiLBh+Qx1hGxfGMcs5DsTgRKJHz28ijoq1JjjjlEr59V2cXLX9g8XaekxhkTTP+kbqx7SvTF70OzmO+9hS3NTiIFGms1FN2tejUsLzWhcSxT4ZEA4tas5dYtR1IuauowlylIrc+YI99XKeLtlacLr3JfCMRinOMRK3g1Hg9VLKUc8/kUvjkG5/GOUxF0eydUlCxjX+gU/dlLpNM6HVlwndRbXm/RpC86dI1/0vKTIrzZZS3vBq5NRKpbU6kaRomBH1yfP5TryWTRONSiAAuao0lWXcRlpI8Zub8NIlNf12XSi6i8Jna+TdKnd4Em2CZVyLdm8P3hY7j23jVl6U0G4SPksHAFgfFRw5IyneLZqi93naboscOqH9RoKEkGGDfHE6CXyTemUFg8qsoRYptrkwKiSy9itypmdacF9sLnqqxjfQVot3llMMhNqR0x25AEVm5ZNRGCEcrmSFo7/NMvAmx4v7+tMCNU3pdhdokny9HMl3eTrnFSFUwSjcrfT6Kisnw
+x-microsoft-antispam: BCL:0;ARA:14566002|51005399006|15080799012|8062599012|8060799015|19110799012|21061999006|41001999006|461199028|38102599003|31061999003|3412199025|40105399003|440099028|102099032|1710799026;
+x-microsoft-antispam-message-info: =?us-ascii?Q?JpGwsBfILuYkB5p2oyIi3oCrF+Z6eFsTKpbc1v9bgOyyfAI7OHqZUmeOvHuj?=
+ =?us-ascii?Q?S4p4y1pfJ4QXvCHkfABs0MLi3xjI1pjw7/t/C/nT1sH0zKCdLyR+KxG9UHOn?=
+ =?us-ascii?Q?QbIq9OO0mwkMyw8ygwwm

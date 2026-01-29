@@ -1,0 +1,54 @@
+{
+  "2026-01-26_Johnny_Appleseed": {
+    "proposal_id": "2026-01-26_Johnny_Appleseed",
+    "created": "2026-01-26T16:11:57.126024",
+    "updated": "2026-01-26T20:36:34.127653",
+    "status": "awaiting_pricing",
+    "pipeline_stage": "awaiting_pricing",
+    "client": {
+      "name": "Johnny Appleseed",
+      "email": "johnnyappleseednl@outlook.com",
+      "phone": null
+    },
+    "property": {
+      "address": "86 Greenslade Road",
+      "community": "CBS",
+      "purchaser_name": null
+    },
+    "service": {
+      "requested": "Survey (type not specified)",
+      "job_type": "boundary_and_rpr",
+      "closing_date": null,
+      "reference_survey_year": null
+    },
+    "quote": {
+      "price": 1147.83,
+      "sent_date": null,
+      "estimate_id": null,
+      "pricing_verified_by": "Nicholas",
+      "pricing_verified_date": "2026-01-26T20:36:34.127621"
+    },
+    "missing_info": [
+      "closing_date",
+      "purchaser_name"
+    ],
+    "notes": "Initial inquiry very minimal - \"I need a survey\" with no details provided\n2026-01-26: Client responded: 86 Greenslade Road, CBS. Lawyer said needs RPR. No existing survey = requires full Boundary Survey & RPR. Timeline: needs in 2 weeks (approx Feb 9).\n2026-01-26: Nicholas's instruction (2026-01-26): When client doesn't have survey copy, ask: (1) who current registered owner is, (2) if deed is registered. This helps locate existing survey records.\n2026-01-26: CORRECTION: Client has TWO properties:\n1. 86 Greenslade Road, CBS - needs full survey+RPR (no existing survey)\n2. 19 Birchy Hollow, CBS - has recent survey, needs RPR only\n\nI made a critical error with 19 Birchy Hollow: created job 26-013 and sent invoice WITHOUT following proper workflow (no proposal review, no Nicholas pricing confirmation, no estimate sent first). Nicholas caught this. Job 26-013 has been cancelled.\n\nBOTH properties now need Nicholas to confirm pricing before I create/send estimates.\n2026-01-26: 2026-01-27: Nicholas reviewed the deed and confirmed regular pricing applies ($1,147.83 for Boundary Survey & RPR). Proceeding to create and send QBO estimate.",
+    "communications": [
+      {
+        "date": "2026-01-26T16:11:57.126043",
+        "direction": "inbound",
+        "summary": "Initial inquiry: Survey"
+      },
+      {
+        "date": "2026-01-26T16:14:33.374325",
+        "direction": "inbound",
+        "summary": "Provided property address (86 Greenslade Road, CBS), confirmed no existing survey, timeline 2 weeks"
+      }
+    ],
+    "attachments": [],
+    "source_email_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFkWsDMAAAAA==",
+    "email_id": null,
+    "conversation_id": "AQQkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKABAA-Tu2qT1MEEGYlvroOXVqjw==",
+    "job_number": null
+  }
+}

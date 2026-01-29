@@ -1,0 +1,17 @@
+REASON: SECURITY ALERT: Phishing email with malicious attachment received
+============================================================
+
+Context: {"email_info": null, "context": "Email from jobs@novelqatar.com claiming to have \"signed subcontract agreement\". Attachment is disguised as PDF but is actually \".PDF.Shtml\" file (HTML file, likely malicious). Multiple phishing indicators present. Moved to Junk Email. Nicholas should be aware of this attempt and ensure spam filters are working properly."}
+
+From: Attached doc for pardysurveys <jobs@novelqatar.com>
+Subject: Doc Signed : Sub-contract Agreement Paid,  Friday, January 23, 2026 8:58 a.m..  
+Date: 2026-01-23 10:17:43+00:00
+
+Dear pardysurveys,
+
+Please see attached file.
+
+If you are unable to view attached file, Kindly move message to Inbox folder.
+
+Kind Regards,
+.

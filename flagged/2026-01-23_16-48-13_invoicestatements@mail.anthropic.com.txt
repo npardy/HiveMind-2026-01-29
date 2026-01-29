@@ -1,0 +1,74 @@
+REASON: Anthropic API receipt ($50.00) - QBO expense recording failed
+============================================================
+
+Context: {"email_info": {"from": "invoice+statements@mail.anthropic.com", "subject": "Your receipt from Anthropic, PBC #2672-7262-6078", "date": "2026-01-23", "amount": "$50.00", "vendor": "Anthropic, PBC", "description": "One-time credit purchase (API credits)", "receipt_number": "2672-7262-6078", "invoice_number": "69DF378C-0024"}, "context": "Receipt #2672-7262-6078 for $50.00 API credits paid Jan 23, 2026. Attempted to record as Software/Subscriptions expense but QBO rejected it. This needs to be manually entered into QuickBooks.\n\nEmail has been moved to Email/Processed folder."}
+
+From: Anthropic, PBC <invoice+statements@mail.anthropic.com>
+Subject: Your receipt from Anthropic, PBC #2672-7262-6078
+Date: 2026-01-23 20:18:03+00:00
+
+
+Your receipt from Anthropic, PBC #2672-7262-6078  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­
+
+<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.anthropic.com%2F&data=05%7C02%7C%7Cafef2cc365d14ed8b83608de5abc6b5f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047962827865207%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iWo90T5snKC%2BRmnJp2jhdro9lFRHBMWpLZQyWXxd0KQ%3D&reserved=0>
+        Anthropic, PBC
+
+
+
+Receipt from Anthropic, PBC
+$50.00
+Paid January 23, 2026
+
+
+
+[invoice illustration]
+[https://stripe-images.s3.amazonaws.com/emails/invoices_arrow_down.png] Download invoice <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2F58.email.stripe.com%2FCL0%2Fhttps%3A%252F%252Fpay.stripe.com%252Finvoice%252Facct_1MExQ9BjIQrRQnux%252Flive_YWNjdF8xTUV4UTlCaklRclJRbnV4LF9UcVhzWmhlZkVDUlRhRWNjdUxvUDE4bHVFbGtkUVpTLDE1OTc0MDIzNg02004RHnDW6B%252Fpdf%253Fs%3Dem%2F1%2F0100019bec811a17-f6074869-668d-4613-9359-c0e7186fa23f-000000%2FPxV2kNlpkxc9jYDtbp_vB7Xho36IrPk2Ux4-FYAMu8k%3D441&data=05%7C02%7C%7Cafef2cc365d14ed8b83608de5abc6b5f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047962827889642%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XTyMOqg58KLmguwfrMlfEosaOcF9SAYYayOHMwV3Blo%3D&reserved=0>               [https://stripe-images.s3.amazonaws.com/emails/invoices_arrow_down.png]  Download receipt <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2F58.email.stripe.com%2FCL0%2Fhttps%3A%252F%252Fdashboard.stripe.com%252Freceipts%252Finvoices%252FCAcQARoXChVhY2N0XzFNRXhROUJqSVFyUlFudXgozK7PywYyBpntoEkCHTovFptVulQkQsBC9W6hcCXqa5paJWSxHv8IfkQwylJlEbyitzCHmuskJR4EhpFw2Js%252Fpdf%253Fs%3Dem%2F1%2F0100019bec811a17-f6074869-668d-4613-9359-c0e7186fa23f-000000%2FGkGGawp_t9as8m4qESBqn2eyL710kYw2r3Lzb75fjnw%3D441&data=05%7C02%7C%7Cafef2cc365d14ed8b83608de5abc6b5f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047962827906530%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=phcMCYAXszPqeaKGkhnrRePX99ssjj8y74QkZyKXWZI%3D&reserved=0>
+
+Receipt number          2672-7262-6078
+
+Invoice number          69DF378C-0024
+
+Payment method          [Link]  Link
+
+
+
+
+        Receipt #2672-7262-6078
+
+
+One-time credit purchase
+
+Qty 1
+
+$50.00
+
+
+
+
+
+
+Total
+
+$50.00
+
+
+
+
+
+
+Amount paid
+
+$50.00
+
+
+
+
+
+        Questions? Visit our support site<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.anthropic.com%2F&data=05%7C02%7C%7Cafef2cc365d14ed8b83608de5abc6b5f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047962827923840%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2F%2BZ23IJjJCrx%2FJ%2BWOu0zBdW%2BAA96nxClmD4kbOdQ9yA%3D&reserved=0>.
+
+
+
+Powered by [stripe logo] <https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2F58.email.stripe.com%2FCL0%2Fhttps%3A%252F%252Fstripe.com%2F1%2F0100019bec811a17-f6074869-668d-4613-9359-c0e7186fa23f-000000%2Fjimw-NRkFBJHJdFnbalGfFJXQZCjB3oNca8zL2ZVPbI%3D441&data=05%7C02%7C%7Cafef2cc365d14ed8b83608de5abc6b5f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047962827941973%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ogvTFYxro6UxZ07O3OW8%2FrbT26%2FTTLV9%2BgVFRELXtkM%3D&reserved=0>   |   Learn more about Stripe Invoicing<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2F58.email.stripe.com%2FCL0%2Fhttps%3A%252F%252Fstripe.com%252Finvoicing%2F1%2F0100019bec811a17-f6074869-668d-4613-9359-c0e7186fa23f-000000%2FjyxQ0fhEniXkEDf_6sSqeuV0Jw-0AWU81SLw29cXKUg%3D441&data=05%7C02%7C%7Cafef2cc365d14ed8b83608de5abc6b5f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639047962827959566%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tCH1uYMaSCOUNp4I2jCqXLiOWZS9pqnhW5XSuWJ5Lec%3D&reserved=0>
+
+
+

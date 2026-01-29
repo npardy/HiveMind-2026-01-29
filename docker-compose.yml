@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  hive-mind:
+    build: .
+    container_name: hive-mind
+    restart: unless-stopped
+    volumes:
+      # Hive Mind code - mount the whole folder as /app
+      - /volume1/HiveMind:/app
+
+      # Mount config explicitly (the file in HiveMind folder)
+      - /volume1/HiveMind/config.nas.yaml:/app/config.yaml:ro
+
+      # Hive Mind data paths (match config.nas.yaml paths exactly)
+      - /volume1/HiveMind/data:/volume1/HiveMind/data
+      - /volume1/HiveMind/logs:/volume1/HiveMind/logs
+      - /volume1/HiveMind/flagged:/volume1/HiveMind/flagged
+      - /volume1/HiveMind/signatures:/volume1/HiveMind/signatures:ro
+
+      # Jobs folder - needs read/write for creating job folders
+      - /volume1/Pardy Surveys/Jobs:/volume1/Pardy Surveys/Jobs
+
+      # Data Sync folder - read-only for field data
+      - /volume1/Pardy Surveys/Data Sync:/volume1/Pardy Surveys/Data Sync:ro
+
+      # Proposals folder - needs read/write for creating proposal JSON files
+      # NOTE: If permission errors occur, proposals are still tracked in data/proposal_index.json
+      # To fix permissions: sudo chmod 777 /volume1/Pardy\ Surveys/Proposals
+      # Or: sudo chown -R 1026:users /volume1/Pardy\ Surveys/Proposals (use your Docker user ID)
+      - /volume1/Pardy Surveys/Proposals:/volume1/Pardy Surveys/Proposals
+
+    environment:
+      - TZ=America/St_Johns
+      - HIVE_MIND_CONFIG=/app/config.yaml
+    network_mode: host

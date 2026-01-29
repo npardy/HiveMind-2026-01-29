@@ -1,0 +1,20 @@
+REASON: Email from known customer (Kira Foreman / lexiespencer@gmail.com) with subject "Please print" and an Adobe Acrobat document link, but NO CONTEXT provided. No active jobs or proposals for this client. Cannot determine:
+- What job this relates to (if any)
+- What the document is
+- Whether they want us to print something or if they're sending us a document
+- What property/address this concerns
+
+Needs Nicholas to review the Adobe link and determine what this is about before I can take action.
+============================================================
+
+Context: {"email_info": {"from": "Alexia Spencer <lexiespencer@gmail.com>", "qbo_customer": "Kira Foreman (ID 2426)", "subject": "Please print", "date": "2026-01-27 16:10:47+00:00", "message_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFkYiB4QAAAA==", "body_summary": "Generic Adobe Acrobat document share - link to acrobat.adobe.com", "active_jobs": "None", "active_proposals": "None"}, "context": null}
+
+From: Alexia Spencer <lexiespencer@gmail.com>
+Subject: Please print
+Date: 2026-01-27 16:10:47+00:00
+
+Check out Alexia's document.
+
+Open the shared document: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1117eac1-173c-435a-ad8c-453237c8a947<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Facrobat.adobe.com%2Fid%2Furn%3Aaaid%3Asc%3AVA6C2%3A1117eac1-173c-435a-ad8c-453237c8a947&data=05%7C02%7C%7Cc49c7e9e049b4797afd408de5dbe9fe9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639051270466027456%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PQi%2BZLXvKjR1jx6il2qABKC6S%2B6QoV3fTk3ZBR0fPgw%3D&reserved=0>
+
+Download the Adobe Acrobat Reader app: https://adobeacrobat.app.link/kXUAYNh2g0b<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fadobeacrobat.app.link%2FkXUAYNh2g0b&data=05%7C02%7C%7Cc49c7e9e049b4797afd408de5dbe9fe9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639051270466049228%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=q41TlXPWHHUhW%2BgQTvUQbb5pmrcB0%2Br%2BkpTZAV5yef8%3D&reserved=0>

@@ -1,0 +1,17 @@
+REASON: Cannot process 12 Reid Place RPR request - email system error and proposal system error. Need to ask Nicholas for: community, Jeff Rowdy's email, exact deadline, closing date/purchaser. Email marked as read but unable to send question to Nicholas or create proposal tracking.
+============================================================
+
+Context: {"email_info": {"from": "nick1995@hotmail.ca", "subject": "12 Reid Place", "body": "Request for RPR from Jeff Rowdy, needs it by end of week", "message_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFj8IsZQAAAA=="}, "context": "Request from Jeff Rowdy for RPR at 12 Reid Place, deadline \"end of week\". Missing critical info to set up job. Attempted to email Nicholas for clarification but got \"timezone not defined\" error. Attempted to create proposal but got read-only filesystem error."}
+
+From: Nick Pardy <nick1995@hotmail.ca>
+Subject: 12 Reid Place
+Date: 2026-01-25 17:22:27+00:00
+
+Hey,
+
+Looking to get a real property report (I think it's called - that's what my realtor said) for my property. They need to know where all the buildings are on the land.
+
+How much? It's 12 Reid Place. I need it by the end of the week.
+
+Thanks,
+Jeff Rowdy

@@ -1,0 +1,14 @@
+REASON: Vague job inquiry from Nick Pardy (johnnyappleseednl@outlook.com) - says "Looking to get some WORK DONE in Paradise" but provides no details: no property address, no service type, no contact info, no closing date. Cannot determine if this is a real inquiry, a test, or spam. Needs human review to determine if this is legitimate and what action to take.
+============================================================
+
+Context: {"email_info": {"from": "johnnyappleseednl@outlook.com", "subject": "Need work done", "date": "2026-01-26 23:20:05", "body": "Looking to get some WORK DONE in Paradise", "message_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFkWsDPgAAAA==", "conversation_id": "AQQkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKABAAsPnNBTomBEGhI-OU5Mrlpw=="}, "context": "This email provides absolutely no actionable information. Missing: property address, service type (RPR/survey/construction?), contact name, phone number, closing date. The sender email doesn't match any known law firm or client pattern. Cannot create proposal or respond without basic information."}
+
+From: Nick Pardy <johnnyappleseednl@outlook.com>
+Subject: Need work done 
+Date: 2026-01-26 23:20:05+00:00
+
+Hey,
+
+Looking to get some WORK DONE in Paradise
+
+Get Outlook for Android<https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7Cfa6c6c359d1a4203e13508de5d31778e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639050664049837485%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Z8lelqHV07S4Sjtg85%2FlVGBFsfGEG%2BDnKpD3Kp%2B5%2Fes%3D&reserved=0>

@@ -1,0 +1,133 @@
+REASON: Critical error: I replied to Nicholas about the WRONG job. He asked about 25-218 (199 Green Acre Drive) but I sent him info for 26-008 (132 Green Acre Drive). Sent correction email.
+============================================================
+
+Context: {"email_info": null, "context": "{\"error_type\": \"wrong_job_data\", \"asked_for\": \"25-218 - 199 Green Acre Drive\", \"replied_with\": \"26-008 - 132 Green Acre Drive\", \"correction_sent\": true, \"correction_subject\": \"CORRECTION: Q1 - Job 25-218 (NOT 26-008)\"}"}
+
+From: Nick Pardy <pardysurveys@outlook.com>
+Subject: RE: Q1
+Date: 2026-01-25 17:50:45+00:00
+
+Hi Nick,
+
+Found it - you're referring to job 26-008 at 132 Green Acre Drive, St. John's (William O'Keefe Law).
+
+**Neighbor names:**
+- 128 Green Acre Drive - Scott Baker
+- 130 Green Acre Drive - Rodney Tapp & Tanya Tapp
+- 134 Green Acre Drive - Stephen Phillips & Jacqueline Power
+- 136 Green Acre Drive - James Foley
+
+**Sent PDF:** We delivered "132 Green Acre Drive (26-008-1).pdf" to the client. I tried to attach it but the NAS isn't responding right now - the file should be at:
+Z:\Jobs\2026\26-008 - William O'Keefe Law - 132 Green Acre Drive, St. John's\132 Green Acre Drive (26-008-1).pdf
+
+-Hive Mind
+
+
+
+All the best,
+
+Claude
+Pardy Surveys Inc.
+
+Phone: 709-330-1502<tel:709-330-1502>
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7Ca607fd73fdca4c67017208de5c3a47c6%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049602453561270%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7vjHrjUZ1bD6WHOSIcM0qPIn%2BHnjWGFww5x38jLGZxc%3D&reserved=0>
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+
+[Pardy Surveys Inc.]
+
+Automated response.
+Need Nick or Joe? Reply "HUMAN" to connect directly.
+
+________________________________
+From: Nick Pardy <pardysurveys@outlook.com>
+Sent: Sunday, January 25, 2026 5:48:29 PM
+To: Nick Pardy <pardysurveys@outlook.com>
+Subject: RE: Q1
+
+Hi Nick,
+
+I found one Green Acres job in the system: 21-390 at 34 Green Acres, Holyrood (Brandon Eason) - but that's from 2021, not last year.
+
+I tried searching for:
+- Job 25-264 (not found in job index or QBO)
+- Any Green Acres jobs from 2025 (none found)
+- QBO invoices with "Green Acres" address (none found)
+
+The NAS paths aren't accessible to me right now to check the 21-390 folder contents for neighbor names or PDFs.
+
+Can you clarify:
+- What's the correct job number or full civic address?
+- Or is this an older job from before the current system was set up?
+
+-Hive Mind
+
+
+
+All the best,
+
+Claude
+Pardy Surveys Inc.
+
+Phone: 709-330-1502<tel:709-330-1502>
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7Ca607fd73fdca4c67017208de5c3a47c6%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049602453585838%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HgIo7DrrkWYNJEo9TfeQ9OnX0EG3JnuWl2By4jmWkkQ%3D&reserved=0>
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+
+[Pardy Surveys Inc.]
+
+Automated response.
+Need Nick or Joe? Reply "HUMAN" to connect directly.
+
+________________________________
+From: Nick Pardy <pardysurveys@outlook.com>
+Sent: Sunday, January 25, 2026 5:46:50 PM
+To: Nick Pardy <pardysurveys@outlook.com>
+Subject: RE: Q1
+
+Hey Claude,
+
+Sorry, I meant the one on Green Acres we did last year.
+
+[cid:image002.png@01DC8E05.41C39670]All the best,
+
+
+Nick Pardy, N.L.S., N.S.L.S., P.Surv.
+Pardy Surveys Inc.
+
+Phone: 709-330-1502
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7Ca607fd73fdca4c67017208de5c3a47c6%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049602453602802%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=W0eXF7wd5mmW5Zkkhn4XWl4YVLvhApgELtQSvWnOo3U%3D&reserved=0>
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+
+From: Nick Pardy <pardysurveys@outlook.com>
+Sent: January 25, 2026 2:16 PM
+To: Nick Pardy <pardysurveys@outlook.com>
+Subject: RE: Q1
+
+Hi Nick,
+
+I searched for job 25-264 but couldn't find it in:
+- The job index
+- QuickBooks (no project or invoice with that number)
+- The NAS Jobs folder structure
+
+Could you verify the job number? Or if this is an older job from before the current system was set up, can you point me to where the files are located?
+
+-Hive Mind
+
+
+All the best,
+
+Claude
+Pardy Surveys Inc.
+
+Phone: 709-330-1502<tel:709-330-1502>
+Website: pardysurveys.com<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.pardysurveys.com%2F&data=05%7C02%7C%7Ca607fd73fdca4c67017208de5c3a47c6%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639049602453620136%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6yYN5AqtnFY8rhl0HmbmNrNWQXHXUDfPOf0Wh2J0Tss%3D&reserved=0>
+Email: pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>
+[Pardy Surveys Inc.]
+
+Automated response.
+Need Nick or Joe? Reply "HUMAN" to connect directly.
+
+________________________________
+From: Nick Pardy <pardysurveys@outlook.com<mailto:pardysurveys@outlook.com>>
+Sent: Sunday, January 25, 2026 5:45:04 PM
+To: Nick Pardy <pardys

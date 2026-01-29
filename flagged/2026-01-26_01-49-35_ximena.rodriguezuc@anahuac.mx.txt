@@ -1,0 +1,29 @@
+REASON: SCAM EMAIL - Fraudulent rent payment request in French. This is a phishing attempt trying to get money sent via Interac to comptablelocativecanada@yahoo.com. Email is from @anahuac.mx (Mexican university domain), not a legitimate landlord. Subject "chers locataires" (dear tenants) is a mass scam template. This has nothing to do with Pardy Surveys business and should be deleted/blocked.
+============================================================
+
+Context: {"email_info": null, "context": "{\"from\": \"ximena.rodriguezuc@anahuac.mx\", \"subject\": \"Re: chers locataires ,\", \"language\": \"French\", \"content\": \"Fake rent payment demand requesting Interac transfer\", \"red_flags\": [\"Generic tenant greeting\", \"Yahoo email for payment\", \"Mexican university email sending French rent notices\", \"Suspicious security question/answer\", \"Urgency tactics\"]}"}
+
+From: Ximena Rodríguez Ucan <ximena.rodriguezuc@anahuac.mx>
+Subject: Re: chers locataires ,
+Date: 2026-01-26 05:19:43+00:00
+
+Bonjour chers locataires ,
+
+Nous vous rappelons que nous n'avons pas encore reçu votre paiement de loyer ( Mois-non Payé ). En effet, conformément au contrat de location signé, la date limite de paiement est passée, nous vous remercions de poursuivre le paiement au plus vite  afin de régler aimablement votre situation.
+
+À compter du 01/01/26 , nous avons décidé de mettre en place un nouveau mode de paiement pour les loyers. Désormais, nous vous prions de régler votre loyer mensuel par virement Interac. Nous avons décidé que les choses se fassent ainsi désormais.
+Veuillez effectuer le paiement au montant habituel par le mode de paiement à INTERAC.
+
+Voici le compte ci-dessous:
+
+Compte : comptablelocativecanada@yahoo.com<mailto:comptablelocativecanada@yahoo.com>
+
+Question de sécurité : Operation 16
+La réponse de sécurité : Effectuer 16
+
+Veuillez nous envoyer un e-mail confirmant le transfert. N'hésitez pas à répondre directement à cette lettre si vous avez des questions.
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations
+distinguées.
+
+Assistance COMPTABLE
+Ximena Rodríguez Ucan

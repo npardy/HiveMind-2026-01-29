@@ -1,0 +1,24 @@
+REASON: Cannot create proposal file - file system read-only error. Need to track inquiry from Lexie Spencer for boundary survey on Bell Island (non-metro, needs pricing).
+============================================================
+
+Context: {"email_info": {"from": "lexiespencer@gmail.com", "subject": "Survey", "message_id": "AQMkADAwATMwMAItMWMzNS0xNmVlAC0wMAItMDAKAEYAAANbQsamJRPvRY0FnwwYe5TxBwBAvHwI6X5_AEWt1ppDUzXLywAAAAIBDAAAAEC8fAjpfn4ARa3WmkNTNcvLAAAFjKxUAAAB", "date": "2026-01-22"}, "context": "Inquiry: Boundary survey for construction on Delahunty's Lane, Bell Island. Client wants to build house by summer. Property ~12m x 30m, inherited from grandmother. Need civic address, registered owner name, existing survey info. This is non-metro + boundary survey = needs Nicholas for pricing."}
+
+From: Alexia Spencer <lexiespencer@gmail.com>
+Subject: Survey
+Date: 2026-01-22 20:26:11+00:00
+
+Hi,
+
+I am looking to get a survey done. It's my grandmother's land that she gave me before she died.
+Its on Delahunty's lane on Bell Island.
+I want to build a house on it. I messaged a builder about it and they told to get a survay.
+I was just wundering how much you will charge me.
+My husband says the lot is approx 12 meters across the front and 30m across ths suide.
+When can you get this done for?
+I want the house done by the summer.
+Let me know when ur coming so I can let my husband know so he can show you where the lot is.
+
+Thank you,
+Emily Tester
+
+
