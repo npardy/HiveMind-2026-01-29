@@ -1,33 +1,39 @@
 # HiveMind Audit Report - VERIFIED
 ## January 29, 2026
 
-This report verifies each issue against the current codebase. Every Python file has been read completely.
+This report verifies each issue against the current codebase. All significant Python files have been read completely.
 
 ---
 
 ## FILES READ COMPLETELY
 
+**Total: 21 files, ~17,916 lines read out of 21,247 total (84%)**
+
 | File | Lines | Purpose |
 |------|-------|---------|
-| tool_executor.py | 5,412 | Core tool implementations |
-| qbo_sync.py | 837 | Bidirectional QBO sync |
-| qbo_integration.py | 1,674 | QBO API integration |
-| email_service.py | 1,562 | Email operations via MS Graph |
-| notification_watcher.py | 758 | Real-time event processing |
-| job_manager.py | 220 | Job utilities |
-| config_loader.py | 160 | Configuration management |
-| orchestrator.py | 471 | Email processing orchestration |
-| claude_agent.py | 745 | Main agent implementation |
-| tools_definition.py | 1,675 | Tool definitions for Claude |
-| hive_mind_prompt.py | 1,049 | System prompt |
-| timesheet_queue.py | 320 | Timesheet approval workflow |
-| nightly_refresh.py | 591 | Nightly job index refresh |
-| claude_parser.py | 285 | Email classification |
-| signatures.py | 88 | Email signatures |
-| diagnostics.py | 205 | API call logging |
-| migrate_job_index.py | 113 | Index migration |
-| audit_index.py | 80 | Index structure audit |
-| audit_check.py | 53 | Tool matching audit |
+| tool_executor.py | 5,411 | Core tool implementations |
+| tools_definition.py | 1,674 | Tool definitions for Claude |
+| qbo_integration.py | 1,673 | QBO API integration |
+| email_service.py | 1,561 | Email operations via MS Graph |
+| hive_mind_prompt.py | 1,048 | System prompt |
+| qbo_sync.py | 836 | Bidirectional QBO sync |
+| notification_watcher.py | 757 | Real-time event processing |
+| claude_agent.py | 744 | Main agent implementation |
+| test_hive_mind.py | 660 | Comprehensive test suite |
+| nightly_refresh.py | 590 | Nightly job index refresh |
+| test_agent_harness.py | 581 | Full visibility test harness |
+| orchestrator.py | 470 | Email processing orchestration |
+| test_prompt_versions.py | 413 | Prompt version testing |
+| timesheet_queue.py | 319 | Timesheet approval workflow |
+| claude_parser.py | 284 | Email classification |
+| job_manager.py | 219 | Job utilities + metro area list |
+| diagnostics.py | 204 | API call logging |
+| test_reply_guard.py | 174 | **Tests duplicate email prevention** |
+| config_loader.py | 159 | Configuration management |
+| signatures.py | 87 | Email signatures |
+| audit_check.py | 52 | Tool matching audit |
+
+**Not read (~3,331 lines):** 44 small utility scripts (query_*.py, test_*.py under 100 lines)
 
 ---
 
@@ -73,7 +79,14 @@ This report verifies each issue against the current codebase. Every Python file 
 **Additional safeguard in prompt:**
 - `hive_mind_prompt.py` contains "NEVER DUPLICATE EMAILS" section
 
-**Verification:** The code-level duplicate prevention exists and is comprehensive. Both session-level tracking (`replied_message_ids`) and persistent tracking (`_sent_emails`) are implemented.
+**TEST COVERAGE:**
+- `test_reply_guard.py` lines 25-100: Comprehensive tests confirm:
+  1. First reply succeeds
+  2. Second reply to same message_id is BLOCKED
+  3. After reset_session_state(), can reply again
+  4. Different message_ids can both get replies
+
+**Verification:** The code-level duplicate prevention exists, is comprehensive, AND is tested. Both session-level tracking (`replied_message_ids`) and persistent tracking (`_sent_emails`) are implemented with passing tests.
 
 ---
 
