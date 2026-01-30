@@ -90,30 +90,50 @@ This report verifies each issue against the current codebase. **ALL 65 Python fi
 
 ## DETAILED ISSUE VERIFICATION
 
-### ISSUE 1: Duplicate Email Problem
+### ISSUE 1: Duplicate Email Problem (Self-Reply Loop)
 **STATUS: FIXED**
 
-**Evidence in Code:**
-- `tool_executor.py` lines 2280-2291: Duplicate email guards implemented
-  ```python
-  # Duplicate guard: Check if we've already sent to this message
-  if message_id in self.replied_message_ids:
-      return {"success": False, "error": f"Already replied to message {message_id}"}
-  ```
-- `tool_executor.py` maintains `replied_message_ids` set AND `_sent_emails` list
-- `_email_send_reply()` checks both guards before sending
+**Production Incident:**
+- **Date:** January 27, 2026, 12:08-12:15 (7-minute window)
+- **What happened:** Claude sent 8+ duplicate "Boundary Agreement" emails in a loop
+- **Root cause:** Graph API `id` changes when email moves between folders (Sent Items → Inbox)
+- **Fix documented in:** `Chat History/2026-01-27 - Self-reply loop and phantom folder fixes.md`
 
-**Additional safeguard in prompt:**
-- `hive_mind_prompt.py` contains "NEVER DUPLICATE EMAILS" section
+**Three Separate Mechanisms (CRITICAL DISTINCTION):**
+
+| Mechanism | Scope | Cleared by reset_session_state()? | Purpose |
+|-----------|-------|-----------------------------------|---------|
+| `_sent_message_ids` | **PERSISTENT** (file) | **NO** | Track ALL emails Claude sent (by internetMessageId) |
+| `_active_conversation_ids` | **PERSISTENT** (file) | **NO** | Track conversations Claude is active in (10-min window) |
+| `replied_message_ids` | Session | YES | Prevent replying twice to same email in one session |
+| `_sent_emails` | Session | YES | Prevent identical content (same to/subject/body) |
+
+**The Actual Fix (PERSISTENT - survives restarts):**
+- `tool_executor.py` lines 86-173: Tracks `internetMessageId` (RFC822 Message-ID)
+- `internetMessageId` is globally unique across ALL folders (unlike Graph API `id`)
+- Stored in `claude_sent_messages.json` - persists across sessions
+- `orchestrator.py` lines 373-387: Checks `is_claude_sent_message()` before processing
+
+**Code flow:**
+```python
+# tool_executor.py - On init, LOAD from disk (line 88)
+self._sent_message_ids = self._load_sent_message_ids()
+
+# When Claude sends email - ADD and SAVE to disk (lines 163, 167)
+self._sent_message_ids.add(message_id)
+self._save_sent_message_ids()
+
+# orchestrator.py - Check BEFORE processing (lines 373-387)
+check_id = getattr(email_msg, 'internet_message_id', None) or email_msg.message_id
+is_claude_sent = self.tool_executor.is_claude_sent_message(check_id)
+if is_claude_sent:
+    continue  # SKIP - don't process Claude's own sent email
+```
 
 **TEST COVERAGE:**
-- `test_reply_guard.py` lines 25-100: Comprehensive tests confirm:
-  1. First reply succeeds
-  2. Second reply to same message_id is BLOCKED
-  3. After reset_session_state(), can reply again
-  4. Different message_ids can both get replies
+- `test_reply_guard.py` lines 25-100: Tests session-level guards
 
-**Verification:** The code-level duplicate prevention exists, is comprehensive, AND is tested. Both session-level tracking (`replied_message_ids`) and persistent tracking (`_sent_emails`) are implemented with passing tests.
+**Recurrence after fix:** None detected in production emails after Jan 27, 2026 12:30.
 
 ---
 
@@ -420,6 +440,25 @@ This report verifies each issue against the current codebase. **ALL 65 Python fi
 - All jobs now keyed by job_number (not conversation_id)
 - Sections have `_updated` timestamps
 
+### Finding H: Phantom Folder Fix (Jan 27, 2026)
+**From `Chat History/2026-01-27 - Self-reply loop and phantom folder fixes.md`:**
+- **Problem:** Claude misremembered folder paths, creating phantom folders (e.g., dropping ", CBS")
+- **Root cause:** `email_save_attachment` required Claude to construct the full path
+- **Fix:** Added `job_number` parameter - tool now looks up correct path from job spine
+- **Files changed:** `tool_executor.py`, `tools_definition.py`, `hive_mind_prompt.py`
+- **Key insight:** "The job spine is the authoritative source for folder paths. Claude should never construct paths manually."
+
+### Finding I: Persistent vs Session State Architecture
+The system uses two types of state tracking:
+
+**Persistent (survives restarts, stored in `claude_sent_messages.json`):**
+- `_sent_message_ids` - All emails Claude has ever sent (by internetMessageId)
+- `_active_conversation_ids` - Conversations with recent Claude activity
+
+**Session (cleared by `reset_session_state()` between emails):**
+- `replied_message_ids` - Messages replied to in current email processing
+- `_sent_emails` - Content sent in current session (for duplicate content detection)
+
 ---
 
 ## RECOMMENDATIONS
@@ -469,12 +508,33 @@ This report verifies each issue against the current codebase. **ALL 65 Python fi
 
 ## CONCLUSION
 
-The HiveMind codebase shows significant improvement since Build 2 discussions. The most critical issues (duplicate emails, time entry auto-posting) have working code fixes with test coverage. Two features remain unimplemented (job number override, CC recipients). Eight issues depend on Claude's adherence to prompt instructions and require production testing to verify.
+The HiveMind codebase shows significant improvement since Build 2 discussions. The most critical issues have been fixed with robust implementations:
 
-**Code Quality Assessment: 7/10**
-- Good: Centralized configuration, duplicate guards, approval workflows, dry-run mode, test coverage
+**VERIFIED FIXED (with evidence):**
+1. **Self-reply loop** - Fixed Jan 27, 2026 with persistent `internetMessageId` tracking. No recurrence.
+2. **Phantom folders** - Fixed Jan 27, 2026 with `job_number` parameter for path lookup from spine.
+3. **Time entry auto-posting** - Fixed with full approval workflow in `timesheet_queue.py`.
+4. **Email threading** - `in_reply_to` parameter fully implemented.
+5. **Employee nicknames** - Mapping in `qbo_sync.py` and `timesheet_queue.py`.
+6. **Job folder paths** - Centralized in `config_loader.py`.
+
+**STILL MISSING (features not implemented):**
+1. Job number override parameter
+2. CC/reply-all recipients in email tools
+
+**PROMPT-DEPENDENT (require production testing):**
+8 issues rely on Claude following instructions - no code enforcement exists.
+
+**Code Quality Assessment: 7.5/10**
+- Good: Persistent vs session state architecture, internetMessageId tracking, approval workflows, dry-run mode, centralized config
 - Needs work: Missing CC support, no state machine enforcement, prompt-dependent behaviors
+
+**Data Sources Reviewed:**
+- 65 Python files (21,247 lines - 100% coverage)
+- Production emails (`claude_interactions_week.md`)
+- Chat history (`2026-01-27 - Self-reply loop and phantom folder fixes.md`)
+- Job index and backups
 
 ---
 
-*Report generated after complete reading of ALL 65 Python files totaling 21,247 lines of code (100% coverage).*
+*Report generated after complete reading of ALL 65 Python files, production email logs, and chat history files.*
